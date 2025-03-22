@@ -1,5 +1,4 @@
 # Text Summarization Example
-Bu repository, **Hugging Face Transformers** kütüphanesini kullanarak metin özetleme işlemi gerçekleştiren bir Python örneğidir. Bu proje, verilen uzun metni özetlemeyi amaçlar.
 
 ## Proje Özeti
 Bu Python kodu, transformers kütüphanesindeki ``pipeline`` fonksiyonunu kullanarak metni özetler. Kullanıcıdan alınan metin, belirli bir uzunlukta (max_length, min_length) özetlenir. Bu işlem, büyük dil modelleri kullanarak metni anlamlı bir şekilde kısaltmak için yapılır.
